@@ -1,4 +1,4 @@
-# programa para calcular salario neto de un empleado
+# programa para calcular salario neto de un empleado 
 salario_bruto = float(input("Ingrese el salario bruto del empleado: "))
 porcentaje = float(input("Ingrese el impuesto (%): "))
 deducciones = float(input("Ingrese las deducciones: "))
