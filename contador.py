@@ -1,7 +1,7 @@
 #contador de numeros impares
 N = int(input("Ingrese un número entero positivo: "))
 i = 1
-while true:
+while True:
     if i % 2 !=0:
         print(i, end=" ")
     i += 1
